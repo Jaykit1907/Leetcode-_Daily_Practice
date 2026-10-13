@@ -1,13 +1,12 @@
 class Solution {
     public int kthFactor(int n, int k) {
-        PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
+        int count=0;
         for(int i=1;i<=n;i++){
             if(n%i==0){
-                pq.add(i);
-                
+                count++;
             }
-            if(pq.size()==k){
-                return pq.poll();
+            if(count==k){
+                return i;
             }
         }
         return -1;
