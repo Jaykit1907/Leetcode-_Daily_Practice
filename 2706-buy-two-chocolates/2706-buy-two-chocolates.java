@@ -13,8 +13,8 @@ class Solution {
         }
 
         int sum=firstmin+secondmin;
-        if(sum-money<0){
-            return sum-money;
+        if(money-sum<0){
+            return money-sum;
         }
         else{
             return money;
