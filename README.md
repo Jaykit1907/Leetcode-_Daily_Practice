@@ -13,4 +13,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1492-the-kth-factor-of-n) |
+## Array
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
