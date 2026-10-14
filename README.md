@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
