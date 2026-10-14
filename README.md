@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -103,8 +105,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
