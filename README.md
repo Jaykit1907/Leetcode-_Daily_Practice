@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
