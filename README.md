@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
