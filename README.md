@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
+| [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -155,8 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
