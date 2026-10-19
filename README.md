@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
