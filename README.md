@@ -195,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
