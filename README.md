@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
