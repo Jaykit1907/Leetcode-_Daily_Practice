@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
