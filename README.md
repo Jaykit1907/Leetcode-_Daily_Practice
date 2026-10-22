@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0342-power-of-four) |
 | [1492-the-kth-factor-of-n](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1492-the-kth-factor-of-n) |
+| [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1492-the-kth-factor-of-n) |
+| [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
 |  |
