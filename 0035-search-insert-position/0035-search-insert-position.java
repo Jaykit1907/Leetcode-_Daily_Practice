@@ -6,7 +6,7 @@ class Solution {
         while(start<=end){
             int mid=(start+end)/2;
             if(nums[mid]==target){
-                pos=mid;
+              
                 end=mid-1;
             }
             else if(nums[mid]>target){
