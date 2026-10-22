@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0020-valid-parentheses) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
 ## Bracket Sequences
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0342-power-of-four) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
