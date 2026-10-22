@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0647-palindromic-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0647-palindromic-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
