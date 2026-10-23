@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0344-reverse-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
