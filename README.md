@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
