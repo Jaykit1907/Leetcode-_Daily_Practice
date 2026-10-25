@@ -7,11 +7,10 @@ class Solution {
         PriorityQueue<Character> pq=new PriorityQueue<>((a,b)->{
             return map.get(b)-map.get(a);
         });
-        pq.addAll(map.keySet());
         StringBuilder sbr=new StringBuilder();
+        pq.addAll(map.keySet());
         while(pq.size()>0){
-            int val=map.get(pq.peek());
-            for(int i=0;i<val;i++){
+            for(int i=0;i<map.get(pq.peek());i++){
                 sbr.append(pq.peek());
             }
             pq.poll();
