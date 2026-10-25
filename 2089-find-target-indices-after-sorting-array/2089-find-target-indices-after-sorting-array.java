@@ -3,14 +3,8 @@ class Solution {
         List<Integer> list=new ArrayList<>();
         Arrays.sort(nums);
         for(int i=0;i<nums.length;i++){
-
             if(nums[i]==target){
-                list.add(i);
-            }
-            else if(list.size()>0){
-                break;
-            }
-            
+                list.add(i);            }
         }
         return list;
     }
