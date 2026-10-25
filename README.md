@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [3498-reverse-degree-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
