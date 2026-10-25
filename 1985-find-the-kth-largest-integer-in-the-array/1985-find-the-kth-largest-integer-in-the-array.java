@@ -12,9 +12,7 @@ class Solution {
                 pq.add(nums[i]);
             }
             else{
-                if (nums[i].length() > pq.peek().length() ||
-    (nums[i].length() == pq.peek().length()
-        && nums[i].compareTo(pq.peek()) > 0)) {
+                if (pq.comparator().compare(nums[i],pq.peek())> 0) {
     pq.poll();
     pq.add(nums[i]);
 }
