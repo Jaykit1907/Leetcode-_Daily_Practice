@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1539-kth-missing-positive-number) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bucket Sort
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
