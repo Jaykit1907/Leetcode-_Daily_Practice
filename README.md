@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0205-isomorphic-strings) |
