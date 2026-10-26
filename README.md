@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0283-move-zeroes) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
