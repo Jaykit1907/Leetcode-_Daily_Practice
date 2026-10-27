@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0680-valid-palindrome-ii) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0520-detect-capital) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
