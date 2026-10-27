@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
 ## Quickselect
