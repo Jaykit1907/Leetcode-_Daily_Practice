@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0541-reverse-string-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0647-palindromic-substrings) |
