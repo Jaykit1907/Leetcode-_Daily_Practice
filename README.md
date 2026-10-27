@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -371,4 +372,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
