@@ -6,37 +6,28 @@ class Solution {
         return false;
     }
     public boolean detectCapitalUse(String word) {
-      
-            int count=0;
-            boolean first=false;
-            for(int i=0;i<word.length();i++){
-                
-                    if(i==0 && isCapital(word.charAt(i))){
-                        count++;
-                        first=true;
-                    }
-                    else if(isCapital(word.charAt(i))){
-                        count++;
-                        first=false;
-                    }
-
+        int count=0;
+        boolean flag=false;
+        for(int i=0;i<word.length();i++){
+            if(isCapital(word.charAt(i))){
+                count++;
+                if(i==0){
+                    flag=true;
+                }
             }
-
-
-
-            if(first){
-                return true;
-            }
-            else if(count==word.length()){
-                return true;
-            }
-            else if(count==0){
-                return true;
-            }
-            else{
-                return false;
-            }
-        
-
+            
+        }
+        if(count==0){
+            return true;
+        }
+        else if(count==1 && flag){
+            return true;
+        }
+        else if(count==word.length()){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 }
