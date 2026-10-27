@@ -1,9 +1,7 @@
 class Solution {
     public List<String> fizzBuzz(int n) {
-        
         List<String> list=new ArrayList<>();
-        int i=1;
-        while(i<=n){
+        for(int i=1;i<=n;i++){
             if(i%3==0 && i%5==0){
                 list.add("FizzBuzz");
             }
@@ -16,8 +14,7 @@ class Solution {
             else{
                 list.add(i+"");
             }
-            i++;
         }
-return list;
+        return list;
     }
 }
