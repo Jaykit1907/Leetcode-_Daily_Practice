@@ -1,6 +1,5 @@
 class Solution {
-    static void reverse(char ch[],int start,int end){
-        
+    static void reverse(char[] ch,int start,int end){
         while(start<end){
             char temp=ch[start];
             ch[start]=ch[end];
@@ -8,26 +7,26 @@ class Solution {
             start++;
             end--;
         }
-        }
+    }
     public String reverseStr(String s, int k) {
         
-        char ch[]=s.toCharArray();
-        int i=0;
-        while(i<ch.length){
+            char st[]=s.toCharArray();
+            int start=0;
+           
+         
+            while(start<s.length()){
 
-            
-            if(i+k-1<ch.length){
-                reverse(ch,i,i+k-1);
+                    if(start+k-1<s.length()){
+                    reverse(st,start,start+k-1);
+                    }
+                    else{
+                        reverse(st,start,s.length()-1);
+                    }
+                    start+=k*2;
+                    
+              
             }
-            else{
-                reverse(ch,i,ch.length-1);
+               
+            return String.valueOf(st);
             }
-          
-                i=i+2*k;
-            
-
-        }  
-
-        return String.valueOf(ch);     
-    }
 }
