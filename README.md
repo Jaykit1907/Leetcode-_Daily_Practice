@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
