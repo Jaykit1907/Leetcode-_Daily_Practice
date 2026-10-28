@@ -13,7 +13,7 @@ class Solution {
         }
         }
         PriorityQueue<String> pq=new PriorityQueue<>((a,b)->{
-            if(map.get(a)!=map.get(b)){
+            if(!map.get(a).equals(map.get(b))){
                 return map.get(b)-map.get(a);
             }
             return a.compareTo(b);
