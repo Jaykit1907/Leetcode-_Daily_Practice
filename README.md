@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0169-majority-element) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
