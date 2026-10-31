@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1328-break-a-palindrome](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1328-break-a-palindrome) |
+| [1332-remove-palindromic-subsequences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1332-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1332-remove-palindromic-subsequences) |
 | [3794-reverse-string-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
