@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1328-break-a-palindrome](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1328-break-a-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1332-remove-palindromic-subsequences) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Prefix Sum
 |  |
