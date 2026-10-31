@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0169-majority-element) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0647-palindromic-substrings) |
 ## Bracket Sequences
