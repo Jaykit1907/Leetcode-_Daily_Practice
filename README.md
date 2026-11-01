@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0507-perfect-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1492-the-kth-factor-of-n) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0500-keyboard-row) |
