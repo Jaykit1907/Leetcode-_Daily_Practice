@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
