@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1492-the-kth-factor-of-n) |
 | [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
