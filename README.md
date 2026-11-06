@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
