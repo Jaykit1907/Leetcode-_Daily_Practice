@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0231-power-of-two) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
