@@ -1,5 +1,4 @@
 class Solution {
-
     static boolean isPrime(int n){
         if(n<2){
             return false;
@@ -12,26 +11,20 @@ class Solution {
         return true;
     }
     public int maximumPrimeDifference(int[] nums) {
-
-
-        int first=0;
+        
         boolean flag=true;
+        int start=0;
         int end=0;
         for(int i=0;i<nums.length;i++){
-
-            if(flag){
-                if(isPrime(nums[i])){
-                    first=i;
-                    end=i;
-                    flag=false;
-                }
+            if(flag && isPrime(nums[i])){
+                start=i;
+                end=i;
+                flag=false;
             }
-            else if(isPrime(nums[i])){
-                    end=i;
-            }
-
-
+           else if(isPrime(nums[i])){
+            end=i;
+           }
         }
-        return end-first;
+return end-start;
     }
 }
