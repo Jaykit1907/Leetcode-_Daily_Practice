@@ -13,26 +13,25 @@ class Solution {
         ListNode head1=new ListNode(10);
         ListNode temp1=head1;
         ListNode temp=head;
-
+        ListNode prev=head;
         if(head==null || head.next==null){
             return head;
         }
-
-        while(temp!=null && temp.next!=null){
-            ListNode prev=temp;
-        
-            temp=temp.next;
-            temp1.next=temp;
+        while(prev!=null && prev.next!=null){
+           ListNode agla=prev.next.next;
+            temp1.next=prev.next;
             temp1=temp1.next;
-
-
-            prev.next=temp.next;
             temp1.next=prev;
             temp1=temp1.next;
 
-            temp=prev.next;
-        }
+            prev=prev.next.next;
+           
 
+           prev=agla;
+           
+        }
+        temp1.next=prev;
         return head1.next;
+        
     }
 }
