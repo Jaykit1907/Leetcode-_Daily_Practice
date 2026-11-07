@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
