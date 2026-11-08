@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0392-is-subsequence) |
