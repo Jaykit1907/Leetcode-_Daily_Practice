@@ -1,19 +1,50 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
+//         HashMap<String,Integer> map=new HashMap<>();
+//         for(int i=0;i<arr.length;i++){
+//             map.put(arr[i],map.getOrDefault(arr[i],0)+1);
+//         }
+//         int count=0;
+//         for(int i=0;i<arr.length;i++){
+//             if(map.get(arr[i])==1){
+//                 count++;
+//             }
+//             if(count==k){
+//                 return arr[i];
+//             }
+//         }
+// return "";
+
         HashMap<String,Integer> map=new HashMap<>();
+        HashMap<String,Integer> index=new HashMap<>();
         for(int i=0;i<arr.length;i++){
-            map.put(arr[i],map.getOrDefault(arr[i],0)+1);
-        }
-        int count=0;
-        for(int i=0;i<arr.length;i++){
-            if(map.get(arr[i])==1){
-                count++;
+            if(map.containsKey(arr[i])){
+                map.put(arr[i],map.get(arr[i])+1);
             }
-            if(count==k){
-                return arr[i];
+            else{
+                map.put(arr[i],1);
+                index.put(arr[i],i);
             }
         }
-return "";
+
+        PriorityQueue<String> pq=new PriorityQueue<>((a,b)->{
         
+            return index.get(a)-index.get(b);
+        });
+
+        for(String val:map.keySet()){
+            if(map.get(val)==1){
+                pq.add(val);
+            }
+        }  
+        int count=0;
+        while(pq.size()>0){
+            count++;
+            if(count==k){
+                return pq.peek();
+            }
+            pq.poll();  
+        }
+        return "";
     }
 }
