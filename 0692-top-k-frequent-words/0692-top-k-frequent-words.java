@@ -5,6 +5,7 @@ class Solution {
         for(int i=0;i<words.length;i++){
             map.put(words[i],map.getOrDefault(words[i],0)+1);
         }
+
         PriorityQueue<String> pq=new PriorityQueue<>((a,b)->{
             if(map.get(a)!=map.get(b)){
                 return map.get(b)-map.get(a);
@@ -12,10 +13,9 @@ class Solution {
             return a.compareTo(b);
         });
         pq.addAll(map.keySet());
-
-        while(k>0){
-                list.add(pq.poll());
-                k--;
+        while(pq.size()>0 && k>0){
+            list.add(pq.poll());
+            k--;
         }
         return list;
     }
