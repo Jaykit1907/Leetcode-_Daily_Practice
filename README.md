@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3870-count-commas-in-range) |
 ## Number Theory
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1492-the-kth-factor-of-n) |
 | [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
