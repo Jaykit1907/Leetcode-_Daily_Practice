@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0881-boats-to-save-people) |
 | [1328-break-a-palindrome](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1328-break-a-palindrome) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -250,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Two Pointers
