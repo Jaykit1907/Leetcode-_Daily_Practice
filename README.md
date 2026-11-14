@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3870-count-commas-in-range) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
