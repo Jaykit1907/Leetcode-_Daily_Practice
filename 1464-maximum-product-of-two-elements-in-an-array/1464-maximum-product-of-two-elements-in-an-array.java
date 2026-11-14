@@ -12,6 +12,5 @@ class Solution {
             }
         }
         return (smax-1)*(max-1);
-        
     }
 }
