@@ -10,6 +10,7 @@ class Solution {
             start++;
             end--;
         }
+
         return String.valueOf(ch);
     }
 }
