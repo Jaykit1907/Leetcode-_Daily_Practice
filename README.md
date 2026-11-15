@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3110-score-of-a-string) |
+| [3210-find-the-encrypted-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3794-reverse-string-prefix) |
