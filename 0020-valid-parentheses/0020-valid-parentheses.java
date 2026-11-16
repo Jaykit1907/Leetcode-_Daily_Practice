@@ -10,15 +10,16 @@ class Solution {
                 if(st.size()==0){
                     return false;
                 }
-                if((ch==')' && st.peek()=='(') || (ch=='}' && st.peek()=='{') || (ch==']' && st.peek()=='[')){
+                else if((st.peek()=='(' && ch==')')
+                || (st.peek()=='{' && ch=='}') ||
+                (st.peek()=='[' && ch==']')){
                     st.pop();
                 }
-                else{
+                else {
                     return false;
                 }
             }
         }
-
-        return st.size()==0?true:false;
+        return st.size()==0;
     }
 }
