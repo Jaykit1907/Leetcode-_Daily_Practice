@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
