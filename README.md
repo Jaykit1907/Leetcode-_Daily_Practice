@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0566-reshape-the-matrix) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2582-pass-the-pillow) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0328-odd-even-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
