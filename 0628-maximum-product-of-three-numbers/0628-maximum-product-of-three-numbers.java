@@ -11,7 +11,7 @@ class Solution {
                 smax=max;
                 max=nums[i];
             }
-            else if(nums[i]>smax){
+            else if(nums[i]>=smax){
                 tmax=smax;
                 smax=nums[i];
             }
