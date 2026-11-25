@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0344-reverse-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/0347-top-k-frequent-elements) |
