@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3115-maximum-prime-difference) |
+| [3360-stone-removal-game](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2582-pass-the-pillow) |
 | [2679-sum-in-a-matrix](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/2679-sum-in-a-matrix) |
+| [3360-stone-removal-game](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jaykit1907/Leetcode-_Daily_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
