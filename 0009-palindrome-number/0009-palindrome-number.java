@@ -6,10 +6,14 @@ class Solution {
             return false;
         }
         while(temp!=0){
-            rem=rem*10+(temp%10);
+            int digit=temp%10;
+            rem=rem*10+digit;
             temp=temp/10;
         }
 
+
         return x==rem;
+
+        
     }
 }
